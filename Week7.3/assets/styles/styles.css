@@ -1,0 +1,29 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(3, 200px);
+}
+
+.con1 {
+    background-color: aqua;
+}
+
+.con2 {
+    background-color: red;
+}
+
+.con3 {
+    background-color: black;
+}
+
+.con4 {
+    background-color: blue;
+}
+
+.con5 {
+    background-color: rosybrown;
+}
+
+.con6 {
+    background-color: fuchsia;
+}
